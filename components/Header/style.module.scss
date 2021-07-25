@@ -1,0 +1,8 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .img {
+        object-fit: contain;
+    }
+}
